@@ -1,0 +1,24 @@
+Name:ung
+destination is from Guskara to Durgapur
+time is:8.15
+meal Prefarence:Yes
+Ticket number is:ticket number114
+___________________________________
+Name:as
+destination is from deripur to Durgapur
+time is:8.15
+meal Prefarence:Yes
+Ticket number is:ticket number165
+___________________________________
+Name:Devlina Karmakar
+destination is from Durgapur to Asansol
+time is:10.01
+meal Prefarence:No
+Ticket number is:ticket number134
+___________________________________
+Name:ss
+destination is from Guskara to Durgapur
+time is:8.45
+meal Prefarence:Yes
+Ticket number is:ticket number99
+___________________________________
